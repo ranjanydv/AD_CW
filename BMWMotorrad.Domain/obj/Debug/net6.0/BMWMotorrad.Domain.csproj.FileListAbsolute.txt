@@ -1,0 +1,12 @@
+E:\ASP.NET\BMWMotorrad\BMWMotorrad.Domain\bin\Debug\net6.0\BMWMotorrad.Domain.deps.json
+E:\ASP.NET\BMWMotorrad\BMWMotorrad.Domain\bin\Debug\net6.0\BMWMotorrad.Domain.dll
+E:\ASP.NET\BMWMotorrad\BMWMotorrad.Domain\bin\Debug\net6.0\BMWMotorrad.Domain.pdb
+E:\ASP.NET\BMWMotorrad\BMWMotorrad.Domain\obj\Debug\net6.0\BMWMotorrad.Domain.csproj.AssemblyReference.cache
+E:\ASP.NET\BMWMotorrad\BMWMotorrad.Domain\obj\Debug\net6.0\BMWMotorrad.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\BMWMotorrad\BMWMotorrad.Domain\obj\Debug\net6.0\BMWMotorrad.Domain.AssemblyInfoInputs.cache
+E:\ASP.NET\BMWMotorrad\BMWMotorrad.Domain\obj\Debug\net6.0\BMWMotorrad.Domain.AssemblyInfo.cs
+E:\ASP.NET\BMWMotorrad\BMWMotorrad.Domain\obj\Debug\net6.0\BMWMotorrad.Domain.csproj.CoreCompileInputs.cache
+E:\ASP.NET\BMWMotorrad\BMWMotorrad.Domain\obj\Debug\net6.0\BMWMotorrad.Domain.dll
+E:\ASP.NET\BMWMotorrad\BMWMotorrad.Domain\obj\Debug\net6.0\refint\BMWMotorrad.Domain.dll
+E:\ASP.NET\BMWMotorrad\BMWMotorrad.Domain\obj\Debug\net6.0\BMWMotorrad.Domain.pdb
+E:\ASP.NET\BMWMotorrad\BMWMotorrad.Domain\obj\Debug\net6.0\ref\BMWMotorrad.Domain.dll
