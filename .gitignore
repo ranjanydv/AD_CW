@@ -3,6 +3,8 @@
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
+/bin/
+/obj/
 
 # JetBrains Rider
 .idea/
@@ -28,6 +30,7 @@ bld/
 # Visual Studio 2015 cache/options directory
 .vs/
 .vscode/
+.vs/*
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
