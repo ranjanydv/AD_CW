@@ -52,13 +52,4 @@ public class UserDetails : IUserDetails
         }).ToList();
         return data;
     }
-    // public Task<List<User>> GetAllUserAsync()
-    // {
-    //     throw new NotImplementedException();
-    // }
-    //
-    // public Task<User> AddUserDetails(UserRequestDTO user)
-    // {
-    //     throw new NotImplementedException();
-    // }
 }
